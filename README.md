@@ -4,16 +4,15 @@
 
 <img width="25%" src="https://idsl.seoultech.ac.kr/image/IDSL-logo2.png"/> <img width="50%" src="https://img.etnews.com/photonews/1606/817629_20160629154205_673_0001.jpg"/>
 
-<a href="https://github.com/ultralytics/yolov3/actions"><img src="https://github.com/ultralytics/yolov3/workflows/CI%20CPU%20testing/badge.svg" alt="CI CPU testing"></a>
-
 This repository represents Ultralytics open-source research into future object detection methods, and incorporates lessons learned and best practices evolved over thousands of hours of training and evolution on anonymized client datasets. **All code and models are under active development, and are subject to modification or deletion without notice.** Use at your own risk.
 
-<p align="left"><img width="800" src="https://user-images.githubusercontent.com/26833433/114424655-a0dc1e00-9bb8-11eb-9a2e-cbe21803f05c.png"></p>
 <details>
-  <summary>YOLOv5-P5 640 Figure (click to expand)</summary>
-  
-<p align="left"><img width="800" src="https://user-images.githubusercontent.com/26833433/114313219-f1d70e00-9af5-11eb-9973-52b1f98d321a.png"></p>
-</details>
+  <summary>Original Version</summary>
+
+<a href="https://github.com/ultralytics/yolov3/actions"><img src="https://github.com/ultralytics/yolov3/workflows/CI%20CPU%20testing/badge.svg" alt="CI CPU testing"></a>
+
+<p align="left"><img width="800" src="https://user-images.githubusercontent.com/26833433/114424655-a0dc1e00-9bb8-11eb-9a2e-cbe21803f05c.png"></p>
+
 <details>
   <summary>Figure Notes (click to expand)</summary>
   
@@ -160,3 +159,5 @@ For business inquiries and professional support requests please visit us at http
 ## Contact
 
 **Issues should be raised directly in the repository.** For business inquiries or professional support requests please visit https://ultralytics.com or email Glenn Jocher at glenn.jocher@ultralytics.com. 
+
+</details>
