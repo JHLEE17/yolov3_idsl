@@ -2,7 +2,7 @@
 
 # IDEC 실습용 자료
 
-<img width="25%" src="https://idsl.seoultech.ac.kr/image/IDSL-logo2.png"/> <img width="75%" src="https://img.etnews.com/photonews/1606/817629_20160629154205_673_0001.jpg"/>
+<img width="25%" src="https://idsl.seoultech.ac.kr/image/IDSL-logo2.png"/> <img width="70%" src="https://img.etnews.com/photonews/1606/817629_20160629154205_673_0001.jpg"/>
 
 <a href="https://github.com/ultralytics/yolov3/actions"><img src="https://github.com/ultralytics/yolov3/workflows/CI%20CPU%20testing/badge.svg" alt="CI CPU testing"></a>
 
