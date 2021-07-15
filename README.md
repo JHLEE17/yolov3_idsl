@@ -1,9 +1,13 @@
-# IDEC 실습용 자료
-
 ## This repository is forked version of ultralytics/yolov3.
+
+# IDEC 실습용 자료
 
 <a align="left" href="https://apps.apple.com/app/id1452689527" target="_blank">
 <img width="800" src="https://img.etnews.com/photonews/1606/817629_20160629154205_673_0001.jpg"></a>
+&nbsp
+
+<a align="left" href="https://apps.apple.com/app/id1452689527" target="_blank">
+<img width="800" src="https://idsl.seoultech.ac.kr/image/IDSL-logo2.png"></a>
 &nbsp
 
 <a href="https://github.com/ultralytics/yolov3/actions"><img src="https://github.com/ultralytics/yolov3/workflows/CI%20CPU%20testing/badge.svg" alt="CI CPU testing"></a>
