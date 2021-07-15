@@ -3,7 +3,7 @@
 ## This repository is forked version of ultralytics/yolov3.
 
 <a align="left" href="https://apps.apple.com/app/id1452689527" target="_blank">
-<img width="800" src="https://user-images.githubusercontent.com/26833433/99805965-8f2ca800-2b3d-11eb-8fad-13a96b222a23.jpg"></a>
+<img width="800" src="https://img.etnews.com/photonews/1606/817629_20160629154205_673_0001.jpg"></a>
 &nbsp
 
 <a href="https://github.com/ultralytics/yolov3/actions"><img src="https://github.com/ultralytics/yolov3/workflows/CI%20CPU%20testing/badge.svg" alt="CI CPU testing"></a>
